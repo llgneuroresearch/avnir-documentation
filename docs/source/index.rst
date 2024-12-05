@@ -15,4 +15,5 @@ Here, you will find the documentation for the tools used and developed in the la
    :caption: Guides
 
    guides/python
+   guides/docker
 
