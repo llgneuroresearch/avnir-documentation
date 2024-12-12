@@ -1,3 +1,6 @@
+.. _python:
+
+
 Python
 ======
 
