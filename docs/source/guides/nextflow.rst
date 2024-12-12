@@ -1,7 +1,7 @@
 .. _nextflow:
 
-Installing Nextflow
-====================
+Nextflow
+========
 
 Nextflow is a powerful and flexible workflow management system. Follow these steps to install Nextflow on your system.
 
